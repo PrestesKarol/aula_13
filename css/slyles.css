@@ -1,0 +1,77 @@
+/* Primeira atividade */
+.container1{
+    border: 10px solid red;
+    display: flex;
+    flex-direction: column-reverse;
+}
+
+.child {
+    height: 100px;
+    width: 100px;
+    color: azure;
+
+}
+
+#item1 {
+    background-color: mediumslateblue;
+}
+
+#item2 {
+    background-color: mediumspringgreen;
+}
+
+#item3 {
+    background-color: mediumturquoise;
+}
+
+#item4 {
+    background-color: mediumvioletred;
+}
+
+#item5 {
+    background-color: deepskyblue;
+}
+/* Final da atividade */
+
+/* Segunda atividade */
+.container2 {
+    display: flex;
+    height: 100vh;
+    width: 100%;
+}
+
+.esquerda { 
+    background-color: chocolate;
+    width: 25%;
+}
+
+.direita {
+width: 75%;
+display: flex;
+flex-wrap: wrap;
+}
+
+header {
+    width: 100%;
+    height: 15%;
+    background-color: deepskyblue;
+}
+
+main {
+    width: 75%;
+    height: 75%;
+    background-color: mediumpurple;
+}
+
+aside {
+    width: 25%;
+    height: 75%;
+    background-color: sandybrown;
+}
+
+footer {
+    width: 100%;
+    height: 10%;
+    background-color: cornflowerblue;
+}
+/* Final da atividade */
